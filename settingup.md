@@ -8,7 +8,7 @@ Install Microsoft Visual Studio Code from <https://code.visualstudio.com/>. Duri
 
 ## Install Git
 
-Install Git from <https://git-scm.com>. Your computer may already have git installed but it won't hurt to update it. If you are using macOS, I'd suggest installing using the "Binary installer." 
+Install Git from <https://git-scm.com>. Your computer may already have git installed but it won't hurt to update it. If you are using macOS, I'd suggest installing using the "Binary installer."
 
 There are lots of questions during the installation process, but you can leave them at their defaults. These are two exceptions (but even these changes are not necessary):
 
@@ -53,7 +53,7 @@ Finally, we need to configure the Grammarly extension.
 3. In the search field, type "grammarly." This will filter the list of settings to show only those related to the Grammarly extension.
 4. Under "Grammarly > Files: Include", click **Add Item**. Enter the text `**/*.md` and choose **OK**.
 5. Under "Grammarly > Config: Document Domain", choose **academic**.
-6. Close the Settings tab, by clicking the **x** at the top of the tab. You changes are automatically saved.
+6. Close the Settings tab, by clicking the **x** at the top of the tab. Your changes are automatically saved.
 
 The Grammarly extension seems to work fine without a Grammarly account. If you have a free or premium Grammarly account, you can link it to the Grammarly extension by following these steps:
 

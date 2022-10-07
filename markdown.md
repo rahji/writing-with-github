@@ -14,7 +14,7 @@ By using Markdown syntax, you are making the structure of the document clear. Us
 
 ## Markdown and GitHub
 
-Markdown is sort of the official language of GitHub. Markdown files are automatically rendered in the browser when they are opened on the GitHub website. In addition to the normal Markdown rules, GitHub has added a few extra features of its own. They call this [GitHub Flavored Markdown]([https://](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)).
+Markdown is sort of the official language of GitHub. Markdown files are automatically rendered in the browser when they are opened on the GitHub website. In addition to the normal Markdown rules, GitHub has added a few extra features of its own. They call this [GitHub Flavored Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 ## Markdown and VS Code
 
