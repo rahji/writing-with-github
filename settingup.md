@@ -62,5 +62,3 @@ The Grammarly extension seems to work fine without a Grammarly account. If you h
 3. Login to your Grammarly account in the browser window that appears.
 
 The Grammarly extension will now perform spell checking and grammar checking in your text and Markdown files automatically, either anonymously or using your Grammarly account.
-
-[Back to the Outline](outline.md)

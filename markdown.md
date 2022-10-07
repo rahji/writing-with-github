@@ -22,7 +22,7 @@ When a file is saved with the .md extension, it's identified as a Markdown docum
 
 The **Markdown All in One** extension that you installed earlier adds some Markdown-specific features that are handy. For example, if you copy a URL to the clipboard and paste it on top of some text in VS Code, it will create a Markdown-formatted link. There are lots of other helpers that this extension provides, but a very common one is auto completions. Try typing the word `image` in a Markdown document, followed by Return, to automatically generate the syntax for inserting an image into your document. (Better still, you can drag an image directly onto the editor!)
 
-The **markdownlink** extension continuously checks your document to ensure that you are following the Markdown rules. Errors and warnings appear with red and yellow underlines, respectively. Hovering over an issue provides more context and suggestions for solving the problem. These issues can also be seen in the file explorer sidebar (as a color-coded number of issues) and as colored bars in the document map at the right side of the editor. Note that other extensions, like the Grammarly extension, also identify errors and warnings in the same way. Striving to always have documents that are free of errors is a good practice, especially when writing with others.
+The **markdownlink** extension continuously checks your document to ensure that you are following the Markdown rules. Errors and warnings appear with red and yellow underlines, respectively. Hovering over an issue provides more context and suggestions for solving the problem. These issues can also be seen in the file explorer sidebar (as a color-coded number of issues) and as colored bars in the document map on the right side of the editor. Note that other extensions, like the Grammarly extension, also identify errors and warnings in the same way. Striving to always have documents that are free of errors is a good practice, especially when writing with others.
 
 Another very handy extension to install is **Markdown PDF**, which renders Markdown documents into PDFs.
 
@@ -35,5 +35,3 @@ Another very handy extension to install is **Markdown PDF**, which renders Markd
 5. Finally, add an ordered grocery list.
 
 Does your document have any errors or warnings? Are they related to markdown syntax or spelling/grammar? Fix all of the issues before saving your file with `.md` at the end of its name.
-
-[Back to the Outline](outline.md)
