@@ -22,3 +22,13 @@ While this collection of tools is typically used for writing and managing *code*
 1. [Setting Up](settingup.md)
 2. [Writing in Markdown](markdown.md)
 3. [Git and GitHub Basics](sourcecontrol.md)
+
+## Some Workflows
+
+* [Writing alone](writingalone.md)
+* A [couple of researchers](twowriters.md) writing together
+* Writing with a [larger group](largergroup.md) of collaborators
+
+## Publishing
+
+* [Using GitHub Pages and Jekyll to publish a website](githubpages.md)
