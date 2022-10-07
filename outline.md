@@ -13,3 +13,4 @@
 ## Getting Started
 
 1. [Setting Up](settingup.md)
+2. [Writing in Markdown](markdown.md)

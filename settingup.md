@@ -41,6 +41,7 @@ To verify that those two commands worked, you can type the following command, fo
 Extensions are a way of adding functionality to VS Code. Several extensions will be helpful as you begin to write technical documents in VS Code. Search for the following extensions by clicking the Extensions icon in the left sidebar. The icon looks like a pile of blocks. For each extension, click its **Install** button.
 
 * Markdown All in One
+* markdownlint
 * Grammarly
 
 ## Configure the Grammarly Extension
@@ -61,3 +62,5 @@ The Grammarly extension seems to work fine without a Grammarly account. If you h
 3. Login to your Grammarly account in the browser window that appears.
 
 The Grammarly extension will now perform spell checking and grammar checking in your text and Markdown files automatically, either anonymously or using your Grammarly account.
+
+[Back to the Outline](outline.md)
