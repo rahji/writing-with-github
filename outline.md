@@ -3,7 +3,7 @@
 ## The Problem
 
 * We want to do some technical writing, collaboratively.
-* We also want to be able to keep track of all of our contributions and changes.
+* We want to be able to keep track of all of our contributions and changes.
 * We want to easily publish that information at the end.
 
 ## A Solution
@@ -12,7 +12,8 @@ The proposed solution is to use a combination of Git, GitHub, and Microsoft Visu
 
 * Git is *source control* software. It allows us to keep track of changes to our files over time by making a series of "snapshots."
 * GitHub is a service that makes Git easier to use, particularly when it comes to collaborating and sharing with others.
-* Visual Studio Code allows us to easily edit text. It also integrates very well with Git and GitHub.
+* Markdown is a simple set of rules that we follow when writing. It allows us to focus on writing well-organized text that's easy to read, edit, and share.
+* Visual Studio Code allows us to easily edit text (including Markdown text). It also integrates very well with Git and GitHub.
 
 While this collection of tools is typically used for writing and managing *code*, they can be really useful for *any* kind of writing project.
 
