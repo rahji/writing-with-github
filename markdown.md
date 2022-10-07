@@ -26,4 +26,14 @@ The **markdownlink** extension continuously checks your document to ensure that 
 
 Another very handy extension to install is **Markdown PDF**, which renders Markdown documents into PDFs.
 
+## Try It
+
+1. In VS Code, choose **File > New Text File**
+2. Click **Select Language** and choose Markdown. If you skip this step, you can let VS Code know that you are writing Markdown by either saving the file right away with a `.md` extension at the end of its name. Alternatively, you can click "Plain Text" on the status bar at the bottom to switch to the Markdown language mode.
+3. Begin your document by including a top-level heading. (Look at the [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/) for help)
+4. Add a paragraph that includes some bold text and a link to your favorite website. (Maybe try  [a different Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) for help this time)
+5. Finally, add an ordered grocery list.
+
+Does your document have any errors or warnings? Are they related to markdown syntax or spelling/grammar? Fix all of the issues before saving your file. Don't forget to end the filename with `.md`.
+
 [Back to the Outline](outline.md)
