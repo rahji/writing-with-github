@@ -18,11 +18,11 @@ Markdown is sort of the official language of GitHub. Markdown files are automati
 
 ## Markdown and VS Code
 
-When a file is saved with the .md extension, it's identified as a Markdown document. VS Code knows Markdown and gives us some handy syntax highlighting/coloring in the editor. Clicking the **Open Preview** icon in the upper right of the editor window opens a rendered view of the Markdown document that is updated live while you edit.
+When a file is saved with the .md extension, it's identified as a Markdown document. VS Code knows Markdown and gives us some handy syntax highlighting/coloring in the editor. Clicking the **Open Preview** button in the upper right of the editor window opens a rendered view of the Markdown document that is updated live while you edit.
 
 | ![Open Markdown Preview Icon](images/markdownpreview.jpg) |
 |:--:|
-| *Open Preview icon* |
+| *Open Preview button* |
 
 The **Markdown All in One** extension that you installed earlier adds some Markdown-specific features that are handy. For example, if you copy a URL to the clipboard and paste it on top of some text in VS Code, it will create a Markdown-formatted link. There are lots of other helpers that this extension provides, but a very common one is auto completions. Try typing the word `image` in a Markdown document, followed by Return, to automatically generate the syntax for inserting an image into your document. (Better still, you can drag an image directly onto the editor!)
 
