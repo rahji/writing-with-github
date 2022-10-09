@@ -58,7 +58,7 @@ Finally, we need to configure the Grammarly extension.
 
 1. Restart VS Code
 2. Choose **File > Preferences > Settings**
-3. In the search field, type "grammarly." This will filter the list of settings to show only those related to the Grammarly extension.
+3. In the search field, type "grammarly". This will filter the list of settings to show only those related to the Grammarly extension.
 4. Under "Grammarly > Files: Include", click **Add Item**. Enter the text `**/*.md` and choose **OK**.
 5. Under "Grammarly > Config: Document Domain", choose **academic**.
 6. Close the Settings tab, by clicking the **x** at the top of the tab. Your changes are automatically saved.
