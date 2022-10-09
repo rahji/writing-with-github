@@ -24,15 +24,15 @@ While this collection of tools is typically used for writing and managing *code*
 
 1. [Setting Up](settingup.md)
 2. [Writing in Markdown](markdown.md)
-3. [Intro to Visual Studio Code](vscode.md)
-4. [Git and GitHub Basics](sourcecontrol.md)
-5. [Using Git and GitHub inside VS Code](vscodegit.md)
+3. [Intro to Visual Studio Code](vscode.md) (in progress)
+4. [Git and GitHub Basics](sourcecontrol.md) (in progress)
+5. [Using Git and GitHub inside VS Code](vscodegit.md) (in progress)
 
 ## Example Workflows
 
-* [Writing alone](writingalone.md)
-* A [couple of researchers](twowriters.md) writing together
-* Writing with a [larger group](largergroup.md) of collaborators
+* [Writing alone](writingalone.md) (in progress)
+* A [couple of researchers](twowriters.md) writing together (in progress)
+* Writing with a [larger group](largergroup.md) of collaborators (in progress)
 
 ## Publishing
 
