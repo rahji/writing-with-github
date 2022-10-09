@@ -33,8 +33,10 @@ To finish configuring the Git software you installed earlier, you will need to t
 
 Now that we have access to a bash command prompt, you can type the following commands to configure git. Press the return key after each command.
 
-1. `git config --global user.name "YourUsernameOnGitHub"`
-2. `git config --global user.name "YourEmailAddress"`
+```bash
+git config --global user.name "YourUsernameOnGitHub"
+git config --global user.name "YourEmailAddress"
+```
 
 To verify that those two commands worked, you can type the following command, followed by a return:
 
