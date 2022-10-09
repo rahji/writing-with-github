@@ -41,3 +41,8 @@ Another very handy extension to install is **Markdown PDF**, which renders Markd
 * Does your document have any errors or warnings?
 * Are the issues related to markdown syntax or spelling/grammar?
 * Fix all of the issues before saving your file with `.md` at the end of its name.
+
+## More Information
+
+* [Advanced Markdown formatting](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting), including mathematical expressions, charts, and more
+* [Adding CSS](https://mrmarchant.com/editing-jekyll-theme-css-for-github-pages/) to customize your site's formatting
