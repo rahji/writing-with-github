@@ -20,7 +20,7 @@ plugins:
 
 ```yaml
 ---
-title: Site Title
+title: Page Title
 permalink: /
 ---
 ```

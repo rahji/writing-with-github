@@ -1,5 +1,5 @@
 remote_theme: pages-themes/minimal@v0.2.0
 title: Git and Github for Technical Writing
-description: A proposed system for writing using Git, GitHub, VS Code, and Markdown
+description: A proposed system for technical writing using Git, GitHub, VS Code, and Markdown
 plugins:
 - jekyll-remote-theme
