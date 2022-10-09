@@ -1,3 +1,6 @@
+---
+permalink: /
+---
 # Git and GitHub for Technical Writing
 
 ## The Problem
