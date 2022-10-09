@@ -36,4 +36,4 @@ While this collection of tools is typically used for writing and managing *code*
 
 ## Publishing
 
-* [Using GitHub Pages and Jekyll to publish a website](githubpages.md)
+* [Using GitHub Pages to publish a website](githubpages.md)

@@ -22,7 +22,7 @@ plugins:
 - jekyll-remote-theme
 ```
 
-The above example uses the "minimal" theme. To apply a different theme, adjust the `remote theme` line according to the instructions found in the preferred theme's GitHub repo.
+The above example uses the "minimal" theme. To apply a different theme, adjust the `remote_theme` line according to the instructions found in the preferred theme's GitHub repo.
 
 ### Changing a Page's Title and URL
 
