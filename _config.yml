@@ -1,0 +1,5 @@
+remote_theme: pages-themes/minimal@v0.2.0
+title: Writing with GitHub
+description: A proposed system for writing using Git, GitHub, VS Code, and Markdown
+plugins:
+- jekyll-remote-theme
