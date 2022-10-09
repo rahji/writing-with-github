@@ -26,7 +26,7 @@ The above example uses the "minimal" theme. To apply a different theme, adjust t
 
 ### Changing a Page's Title and URL
 
-Each Markdown page can begin with a [front matter block](https://jekyllrb.com/docs/front-matter/) that contains metadata about the page. An example of information that might be contained in this section includes a title for the page (which is otherwise drawn from the top-level heading of the Markdown text). Another common use for this section is specifying a "permalink" for the page. This will become the URL for the web page. By default, the URL is derived from the Markdown filename. In the example below, both a title and permalink are specified. Again, this code would appear at the top of a Markdown document.
+Each Markdown page can begin with a [front matter block](https://jekyllrb.com/docs/front-matter/) that contains metadata about the page. An example of information that might be contained in this section includes a title for the page (which is otherwise drawn from the top-level heading of the Markdown text). Another common use for this section is specifying a "permalink" for the page. This will become the URL for the web page. By default, the URL is derived from the Markdown filename. In the example below, both a title and permalink are specified. Again, this code (including the dashed lines) would appear at the top of a Markdown document.
 
 ```yaml
 ---

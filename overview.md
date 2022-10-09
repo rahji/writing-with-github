@@ -24,9 +24,9 @@ While this collection of tools is typically used for writing and managing *code*
 
 1. [Setting Up](settingup.md)
 2. [Writing in Markdown](markdown.md)
-3. [Git and GitHub Basics](sourcecontrol.md)
-4. [Visual Studio Code Basics](vscode.md)
-5. [Git and GitHub inside VS Code](vscodegit.md)
+3. [Intro to Visual Studio Code](vscode.md)
+4. [Git and GitHub Basics](sourcecontrol.md)
+5. [Using Git and GitHub inside VS Code](vscodegit.md)
 
 ## Example Workflows
 
