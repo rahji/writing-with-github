@@ -18,6 +18,19 @@ plugins:
 - jekyll-remote-theme
 ```
 
+```yaml
+---
+title: Site Title
+permalink: /
+---
+```
+
+```yaml
+---
+permalink: /404.html
+---
+```
+
 Several Jekyll themes are supported by GitHub Pages. The list can be found at <https://pages.github.com/themes/>. 
 
 ## More Information

@@ -1,4 +1,5 @@
 ---
+title: Git and Github for Technical Writing
 permalink: /
 ---
 # Git and GitHub for Technical Writing
