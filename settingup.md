@@ -31,7 +31,7 @@ To finish configuring the Git software you installed earlier, you will need to t
 |:--:|
 | *Selecting the Default Shell for the Terminal* |
 
-Now that we have access to a bash command prompt, you can type the following commands to configure git. Press the return key after each command.
+Now that we have access to a bash command prompt, you can type the following commands to configure git. Be sure to include the quotation marks and press the return key after each command.
 
 ```bash
 git config --global user.name "YourUsernameOnGitHub"
@@ -40,7 +40,9 @@ git config --global user.name "YourEmailAddress"
 
 To verify that those two commands worked, you can type the following command, followed by a return:
 
-`git config --global --list`
+```bash
+git config --global --list
+```
 
 ## Add VS Code Extensions
 
