@@ -1,7 +1,7 @@
 ---
 permalink: /
 ---
-# Git and GitHub for Technical Writing
+# Overview
 
 ## The Problem
 

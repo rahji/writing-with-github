@@ -27,7 +27,11 @@ To finish configuring the Git software you installed earlier, you will need to t
 2. In the Terminal pane that appears, find the **+** symbol. Click the down arrow to the right of the **+** symbol and choose **Select Default Profile**. From the list that appears, choose **Git Bash**. If you don't see **Git Bash** as an option, choose **bash**.
 3. Click the **+** symbol to open a new terminal.
 
-Now that we have access to a command prompt, you can type the following commands to configure git. Press the return key after each command.
+| ![Selecting the Default Shell for the Terminal](images/defaultprofile.png) |
+|:--:|
+| *Selecting the Default Shell for the Terminal* |
+
+Now that we have access to a bash command prompt, you can type the following commands to configure git. Press the return key after each command.
 
 1. `git config --global user.name "YourUsernameOnGitHub"`
 2. `git config --global user.name "YourEmailAddress"`
