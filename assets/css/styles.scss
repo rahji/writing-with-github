@@ -3,7 +3,7 @@
 
 @import "{{ site.theme }}";
 
-code, pre {
+code {
   font-family: Consolas, Monaco, Bitstream Vera Sans Mono, Lucida Console, Terminal, Liberation Mono, DejaVu Sans Mono, Courier New, monospace;
   color: #333;
   background-color: #e0e0e0;
@@ -11,4 +11,14 @@ code, pre {
 
 .highlight {
   background-color: #e0e0e0;
+}
+
+pre {
+  font-family: Consolas, Monaco, Bitstream Vera Sans Mono, Lucida Console, Terminal, Liberation Mono, DejaVu Sans Mono, Courier New, monospace;
+  color: #333;
+  background-color: #e0e0e0;  
+  padding: 8px 15px;
+  border-radius: 5px;
+  border: 1px solid #707070;
+  overflow-x: auto;
 }
