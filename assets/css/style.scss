@@ -3,7 +3,7 @@
 
 @import "{{ site.theme }}";
 
-code pre {
+code, pre {
   font-family: Consolas, Monaco, Bitstream Vera Sans Mono, Lucida Console, Terminal, Liberation Mono, DejaVu Sans Mono, Courier New, monospace;
   color: #333;
   background-color: #e0e0e0;
