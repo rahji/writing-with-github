@@ -11,7 +11,7 @@ permalink: /
 
 ## A Solution
 
-The proposed solution is to use a combination of Git, GitHub, and Microsoft Visual Studio Code as a system that can help accomplish the above goals.
+The proposed solution is to use a combination of Git, GitHub, Microsoft Visual Studio Code, and Markdown as a system that can help accomplish the above goals.
 
 * Git is *source control* software. It allows us to keep track of changes to our files over time by making a series of "snapshots."
 * GitHub is a service that makes Git easier to use, particularly when it comes to collaborating and sharing with others.
